@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <settings>
-  <setting channel="1" controller="68" command_string="Unassigned"/>
   <setting channel="1" note="20" command_string="Key1"/>
   <setting channel="1" note="21" command_string="Key2"/>
   <setting channel="1" note="25" command_string="Key3"/>
@@ -15,17 +14,17 @@
   <setting channel="1" note="1" command_string="SetRating1"/>
   <setting channel="1" note="2" command_string="SetRating2"/>
   <setting channel="1" controller="65" command_string="IncreaseDecreaseRating"/>
-  <setting channel="1" note="40" command_string="Reject"/>
-  <setting channel="1" note="72" command_string="Reject"/>
   <setting channel="1" note="8" command_string="Reject"/>
   <setting channel="1" note="104" command_string="Reject"/>
+  <setting channel="1" note="40" command_string="Reject"/>
+  <setting channel="1" note="72" command_string="Reject"/>
   <setting channel="1" controller="66" command_string="ToggleFlag"/>
   <setting channel="1" note="10" command_string="RemoveFlag"/>
   <setting channel="1" note="5" command_string="AddOrRemoveFromTargetColl"/>
-  <setting channel="1" controller="64" command_string="NextPrev"/>
   <setting channel="1" controller="88" command_string="NextPrev"/>
-  <setting channel="1" controller="72" command_string="NextPrev"/>
+  <setting channel="1" controller="64" command_string="NextPrev"/>
   <setting channel="1" controller="80" command_string="NextPrev"/>
+  <setting channel="1" controller="72" command_string="NextPrev"/>
   <setting channel="1" note="112" command_string="Next"/>
   <setting channel="1" note="113" command_string="Prev"/>
   <setting channel="1" controller="67" command_string="RotateRight"/>
@@ -37,9 +36,9 @@
   <setting channel="1" note="3" command_string="LRCopy"/>
   <setting channel="1" note="4" command_string="LRPaste"/>
   <setting channel="1" note="64" command_string="Undo"/>
-  <setting channel="1" note="32" command_string="Undo"/>
-  <setting channel="1" note="96" command_string="Undo"/>
   <setting channel="1" note="0" command_string="Undo"/>
+  <setting channel="1" note="96" command_string="Undo"/>
+  <setting channel="1" note="32" command_string="Undo"/>
   <setting channel="1" note="38" command_string="WhiteBalanceAs_Shot"/>
   <setting channel="1" note="37" command_string="WhiteBalanceAuto"/>
   <setting channel="1" note="34" command_string="WhiteBalanceDaylight"/>
@@ -50,11 +49,10 @@
   <setting channel="1" controller="74" command_string="Tint"/>
   <setting channel="1" controller="75" command_string="Exposure"/>
   <setting channel="1" controller="76" command_string="Contrast"/>
-  <setting channel="1" controller="78" command_string="Vibrance"/>
   <setting channel="1" controller="77" command_string="Saturation"/>
   <setting channel="1" note="41" command_string="ResetTemperature"/>
-  <setting channel="1" note="42" command_string="ResetTint"/>
   <setting channel="1" note="47" command_string="ResetTint"/>
+  <setting channel="1" note="42" command_string="ResetTint"/>
   <setting channel="1" note="43" command_string="ResetExposure"/>
   <setting channel="1" note="45" command_string="ResetVibrance"/>
   <setting channel="1" controller="81" command_string="ParametricDarks"/>
@@ -62,10 +60,10 @@
   <setting channel="1" controller="82" command_string="ParametricShadows"/>
   <setting channel="1" controller="84" command_string="ParametricHighlights"/>
   <setting channel="1" note="73" command_string="ResetParametricDarks"/>
-  <setting channel="1" note="75" command_string="ResetParametricLights"/>
   <setting channel="1" note="46" command_string="ResetParametricLights"/>
-  <setting channel="1" note="44" command_string="ResetParametricShadows"/>
+  <setting channel="1" note="75" command_string="ResetParametricLights"/>
   <setting channel="1" note="74" command_string="ResetParametricShadows"/>
+  <setting channel="1" note="44" command_string="ResetParametricShadows"/>
   <setting channel="1" note="76" command_string="ResetParametricHighlights"/>
   <setting channel="1" controller="89" command_string="SaturationAdjustmentRed"/>
   <setting channel="1" controller="90" command_string="SaturationAdjustmentOrange"/>
@@ -93,5 +91,7 @@
   <setting channel="1" note="69" command_string="Keyword5"/>
   <setting channel="1" note="70" command_string="Keyword6"/>
   <setting channel="1" note="97" command_string="EnableRedEye"/>
+  <setting channel="1" controller="78" command_string="local_Texture"/>
+  <setting channel="1" controller="79" command_string="local_Clarity"/>
   <setting channel="1" note="6" command_string="ToggleScreenTwo"/>
 </settings>
