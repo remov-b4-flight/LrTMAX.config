@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <settings>
-  <setting channel="1" controller="22" command_string="Unassigned"/>
-  <setting channel="1" controller="21" command_string="Unassigned"/>
-  <setting channel="1" note="39" command_string="Unassigned"/>
-  <setting channel="1" controller="4" command_string="Unassigned"/>
-  <setting channel="1" controller="23" command_string="Unassigned"/>
-  <setting channel="1" note="23" command_string="Unassigned"/>
   <setting channel="1" note="55" command_string="SwToMlibrary"/>
   <setting channel="1" note="13" command_string="ToggleZoomOffOn"/>
   <setting channel="1" controller="5" command_string="ZoomInOut"/>
