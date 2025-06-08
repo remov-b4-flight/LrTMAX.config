@@ -7,18 +7,18 @@
   <setting channel="1" note="30" command_string="ToggleScreenTwo"/>
   <setting channel="1" controller="45" command_string="straightenAngle"/>
   <setting channel="1" note="52" command_string="Resetlocal_Sharpness"/>
-  <setting channel="1" note="55" command_string="Resetlocal_Saturation"/>
-  <setting channel="1" note="54" command_string="Resetlocal_Hue"/>
   <setting channel="1" note="51" command_string="Resetlocal_Dehaze"/>
   <setting channel="1" note="50" command_string="Resetlocal_Clarity"/>
   <setting channel="1" note="49" command_string="Resetlocal_Texture"/>
+  <setting channel="1" note="55" command_string="Resetlocal_Saturation"/>
+  <setting channel="1" note="54" command_string="Resetlocal_Hue"/>
   <setting channel="1" note="53" command_string="Resetlocal_Exposure"/>
   <setting channel="1" controller="52" command_string="local_Sharpness"/>
-  <setting channel="1" controller="55" command_string="local_Saturation"/>
-  <setting channel="1" controller="54" command_string="local_Hue"/>
   <setting channel="1" controller="51" command_string="local_Dehaze"/>
   <setting channel="1" controller="50" command_string="local_Clarity"/>
   <setting channel="1" controller="49" command_string="local_Texture"/>
+  <setting channel="1" controller="55" command_string="local_Saturation"/>
+  <setting channel="1" controller="54" command_string="local_Hue"/>
   <setting channel="1" controller="53" command_string="local_Exposure"/>
   <setting channel="1" note="71" command_string="ResetSaturationAdjustmentMagenta"/>
   <setting channel="1" note="70" command_string="ResetSaturationAdjustmentBlue"/>
@@ -77,19 +77,19 @@
   <setting channel="1" controller="56" command_string="NextPrev"/>
   <setting channel="1" controller="64" command_string="NextPrev"/>
   <setting channel="1" note="5" command_string="AddOrRemoveFromTargetColl"/>
-  <setting channel="1" note="41" command_string="RemoveFlag"/>
   <setting channel="1" controller="41" command_string="ToggleFlag"/>
   <setting channel="1" note="40" command_string="Reject"/>
   <setting channel="1" note="48" command_string="Reject"/>
   <setting channel="1" note="56" command_string="Reject"/>
   <setting channel="1" note="64" command_string="Reject"/>
   <setting channel="1" controller="42" command_string="IncreaseDecreaseRating"/>
-  <setting channel="1" note="2" command_string="SetRating2"/>
   <setting channel="1" note="1" command_string="SetRating1"/>
   <setting channel="1" note="42" command_string="SetRating0"/>
   <setting channel="1" controller="44" command_string="ZoomInOut"/>
   <setting channel="1" note="44" command_string="ToggleZoomOffOn"/>
+  <setting channel="1" note="2" command_string="ShoFullPreview"/>
   <setting channel="1" note="31" command_string="SwToMlibrary"/>
+  <setting channel="1" note="41" command_string="ActionSeries1"/>
   <setting channel="1" controller="43" command_string="Key2Key1"/>
   <setting channel="1" note="43" command_string="Unassigned"/>
   <setting channel="1" note="45" command_string="Unassigned"/>
